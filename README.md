@@ -6,10 +6,10 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+   - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
