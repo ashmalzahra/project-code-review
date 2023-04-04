@@ -36,7 +36,7 @@ const addTask = (e) => {
     localStorage.setItem('todolist', JSON.stringify(newTodoList));
     newItem.value = '';
   }
-  window.location.reload();
+ location.reload();
 };
 
 enter.addEventListener('click', addTask);
@@ -100,7 +100,7 @@ const clearCompleted = () => {
   });
   newTodoList.todolist = sortedList;
   localStorage.setItem('todolist', JSON.stringify(newTodoList));
-  window.location.reload();
+ location.reload();
 };
 
 clearButton.addEventListener('click', clearCompleted);
